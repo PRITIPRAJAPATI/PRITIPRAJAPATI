@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Priti Prajapati 👋
 
-<!--
-**PRITIPRAJAPATI/PRITIPRAJAPATI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Developer | Web Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I build web applications, automation tools and AI-powered projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- Django
+- Flask
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Git & GitHub
+- Machine Learning Basics
+
+## 🔥 Projects
+
+### 🤖 AI Resume Analyzer
+An AI-based application that analyzes resumes and provides improvement suggestions.
+
+**Tech Stack:**
+- Python
+- Flask
+- NLP
+
+
+### 💰 Expense Tracker App
+A web application to manage daily expenses with reports and analytics.
+
+**Tech Stack:**
+- Django
+- SQLite
+- Bootstrap
+
+
+### 🌐 Portfolio Website
+A personal developer portfolio website.
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/PRITIPRAJAPATI
