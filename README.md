@@ -1,51 +1,56 @@
-# Hi, I'm Priti Prajapati 👋
+<h1 align="center">
+  Hi 👋, I'm Priti Prajapati
+</h1>
 
-## Python Developer | Web Developer | AI Enthusiast
+<h3 align="center">
+  🚀 Python Developer | 🌐 Web Developer | 🤖 AI Enthusiast
+</h3>
 
-I build web applications, automation tools and AI-powered projects.
-
-## 🚀 Skills
-
-- Python
-- Django
-- Flask
-- HTML
-- CSS
-- JavaScript
-- SQL
-- Git & GitHub
-- Machine Learning Basics
-
-## 🔥 Projects
-
-### 🤖 AI Resume Analyzer
-An AI-based application that analyzes resumes and provides improvement suggestions.
-
-**Tech Stack:**
-- Python
-- Flask
-- NLP
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&width=600&lines=Welcome+to+my+GitHub+Profile;Building+AI+Projects;Creating+Web+Applications;Learning+New+Technologies;Turning+Ideas+Into+Code"/>
+</p>
 
 
-### 💰 Expense Tracker App
-A web application to manage daily expenses with reports and analytics.
+## 👩‍💻 About Me
 
-**Tech Stack:**
-- Django
-- SQLite
-- Bootstrap
+- 🔭 Currently building AI and Web Development projects
+- 🌱 Learning Python, Django, Flask and AI technologies
+- 💡 Interested in Automation, AI and Software Development
+- 🎯 Goal: Build impactful real-world applications
 
 
-### 🌐 Portfolio Website
-A personal developer portfolio website.
+## 🛠️ Tech Stack
 
-**Tech Stack:**
-- HTML
-- CSS
-- JavaScript
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,html,css,js,react,mysql,git,github,vscode"/>
+
+</p>
+
+
+## 🚀 Projects Coming Soon
+
+- 🤖 AI Resume Analyzer
+- 📚 Smart Study Assistant
+- 💰 AI Finance Manager
+- 🌐 Developer Portfolio Website
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PRITIPRAJAPATI&show_icons=true&theme=tokyonight"/>
+
+</p>
 
 
 ## 📫 Connect With Me
 
-GitHub:
-https://github.com/PRITIPRAJAPATI
+<p align="center">
+
+<a href="https://github.com/PRITIPRAJAPATI">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+</p>
